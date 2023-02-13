@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"GoTraining/mypackage"
+	"github.com/nitingupta8876/GoTraining/mypackage"
 )
 
 func init() {
