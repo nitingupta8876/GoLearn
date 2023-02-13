@@ -3,7 +3,7 @@ package mypackage
 import (
 	"fmt"
 
-	_ "GoTraining/mypackage/mysubpack"
+	_ "github.com/nitingupta8876/GoTraining/mypackage/mysubpack"
 )
 
 func init() {
